@@ -1,0 +1,35 @@
+/* Put your style information here! */
+
+body {
+	background-color: rgb(206, 218, 221);
+}
+
+h1 {
+	font-family:fantasy;
+	font-weight: bold;
+}
+
+h2 {
+	margin-left: 40px;
+	font-family:fantasy;
+	font-weight: bold;
+}
+
+h4 {
+	margin-left: 80px;
+	font-family:fantasy;
+	font-weight: bold;
+}
+
+h5 {
+	margin-left: 120px;
+}
+
+p {
+	margin-left: 120px;
+	line-height: 29px;
+}
+
+.content {
+	margin: 100px;
+  }
